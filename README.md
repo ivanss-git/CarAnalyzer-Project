@@ -10,9 +10,7 @@ It calculates the market value, repair cost, and provides me with a suggestion o
 
 # Future plans 
 
--Add more evaluation metrics
--Analyze real time data through web scraping for more accurate results
--Create a website to list my inventory of cars
+Add more evaluation metrics, Analyze real time data through web scraping for more accurate results and Create a website to list my inventory of cars
 
 # Feedback
 
