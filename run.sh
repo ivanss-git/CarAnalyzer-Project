@@ -1,9 +1,11 @@
 #!/bin/bash
 
-# Compile all Java files
+# Compiles all
+
 javac *.java
 
-# If compilation succeeds, run the program
+#if a success
+
 if javac *.java; then
   java Main
 else
